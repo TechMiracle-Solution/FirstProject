@@ -1,0 +1,6 @@
+E:\TechMiracle-Solution\Projects\HTML.UI\bin\HTML.UI.dll.config
+E:\TechMiracle-Solution\Projects\HTML.UI\bin\HTML.UI.dll
+E:\TechMiracle-Solution\Projects\HTML.UI\bin\HTML.UI.pdb
+E:\TechMiracle-Solution\Projects\HTML.UI\obj\Debug\HTML.UI.csprojResolveAssemblyReference.cache
+E:\TechMiracle-Solution\Projects\HTML.UI\obj\Debug\HTML.UI.dll
+E:\TechMiracle-Solution\Projects\HTML.UI\obj\Debug\HTML.UI.pdb
